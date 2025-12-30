@@ -20,9 +20,12 @@ This Sales Analysis Dataset consists of several interconnected tables. Dimension
 
 ## 2) Columns Characteristic
 
- - Understanding The Content of Columns and Data Types, like: -
-  **Products Table** =>(BrandName,ClassName,ProductName,UnitCost).
+ - Understanding The Content of Columns and Data Types, like:-
+   
+ **Products Table** =>(BrandName,ClassName,ProductName,UnitCost).
+ 
  **Sales Table** =>(Delivery_Date,SalesQuantity,TotalCost,Order_Date).
+ 
  **Stores Table** =>(Status,StoreName,StoryType,EmployeeCount).
 
 ## 3) Business Questions
@@ -42,7 +45,7 @@ After completing the previous steps, I built Snowflake Schema.
 **# It Has a Critical Benefits:-**
  - Achieve High Normalization and Reduce Redundancy.
  - Highly scalable and can handle large volumes of data efficiently.
-- Provides high performance for data processing and query execution.
+ - Provides high performance for data processing and query execution.
  - Supports structured and semi-structured data formats.
  - Ensures strong data security and data protection.
 
