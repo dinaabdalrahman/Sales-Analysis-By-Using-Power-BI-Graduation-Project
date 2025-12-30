@@ -50,7 +50,7 @@ After completing the previous steps, I built Snowflake Schema.
      1) I determined which table would be dim or fact based on the data.
      2) The relationships between the tables were established using foreign keys.
                                                   
-![Model](<img width="705" height="754" alt="Picture1" src="https://github.com/user-attachments/assets/aad2aa6d-adb9-436f-94aa-b6752f91cc26" />
+![](<img width="705" height="754" alt="Picture1" src="https://github.com/user-attachments/assets/af961fd9-f750-4e61-a6a6-1025baddec60" />
 )
 
      
