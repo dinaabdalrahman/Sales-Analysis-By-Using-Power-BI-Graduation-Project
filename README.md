@@ -5,7 +5,7 @@ This Sales Analysis Dataset consists of several interconnected tables. Dimension
 ## # Steps 
         
 
- -        1) Data Understanding
+          1) Data Understanding
           2) Columns Characteristic
           3) Business Questions
           4) Data Modelling
@@ -49,8 +49,9 @@ After completing the previous steps, I built Snowflake Schema.
 **# Steps:-**
      1) I determined which table would be dim or fact based on the data.
      2) The relationships between the tables were established using foreign keys.
-                                                   هنا فى صورة 
-     
+                                                  
+     <img width="705" height="754" alt="Picture1" src="https://github.com/user-attachments/assets/760db234-14d7-4029-b962-079508f22b77" />
+
      
 
 ## 5) Creating Measures [DAX]
