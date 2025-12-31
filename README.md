@@ -161,6 +161,8 @@ Custom DAX measures were created to support KPI tracking and time-based analysis
 
 - Country-level performance analysis  
 - Drill-through functionality for detailed insights
+
+
 ![Drill Through](https://github.com/user-attachments/assets/a4be6c8c-9008-46ac-b882-3de079584dc4)
 
 
@@ -168,12 +170,17 @@ Custom DAX measures were created to support KPI tracking and time-based analysis
 ![Marketing Analysis Dashboard](https://github.com/user-attachments/assets/9d6a34b5-6fff-4fa4-b839-edb342159676)
 
 - YTD vs LY comparison with change %
+
+
 ![YTD ](https://github.com/user-attachments/assets/b9292155-88fc-44ab-943f-ee2633888341)
 
 - Time range selection (Last 15 / 30 / 45 days)
- ![Time range selection](https://github.com/user-attachments/assets/0786f94c-9afc-4dc1-8c86-670b64f3bb9f)
+
+![Time range selection](https://github.com/user-attachments/assets/0786f94c-9afc-4dc1-8c86-670b64f3bb9f)
 
 - Custom date range selection
+
+
 ![Custom date range selection](https://github.com/user-attachments/assets/08b575c0-9f82-432f-abc4-2dbbfae2ebc7)
 
 
