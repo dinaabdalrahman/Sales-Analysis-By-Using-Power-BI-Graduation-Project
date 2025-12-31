@@ -151,7 +151,8 @@ Custom DAX measures were created to support KPI tracking and time-based analysis
 
 ![ToolTip](https://github.com/user-attachments/assets/2f2be321-b333-483c-9bee-ed3ad08ec555)
 
-- Row Level Security (RLS): User-based access to specific categories ==> [User B: Can access specific category in TV and Video.]
+- Row Level Security (RLS): User-based access to specific categories ==>
+[User B: Can access specific category in TV and Video.]
 
 ![RLS for user B](https://github.com/user-attachments/assets/044dc42c-fd09-4abf-986e-c9959f4b40c8)
 
@@ -164,6 +165,9 @@ Custom DAX measures were created to support KPI tracking and time-based analysis
 
 
 ![Drill Through](https://github.com/user-attachments/assets/a4be6c8c-9008-46ac-b882-3de079584dc4)
+
+![drill2](https://github.com/user-attachments/assets/bc181cc7-52e0-4d3c-94bf-533c2e0e2f9b)
+
 
 
 ### 📊 3. Marketing Analysis Dashboard
