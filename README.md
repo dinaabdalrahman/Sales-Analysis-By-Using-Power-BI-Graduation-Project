@@ -145,21 +145,26 @@ Custom DAX measures were created to support KPI tracking and time-based analysis
 
 **Three** dynamic and interactive dashboards were developed to serve different business roles.
 
-![C-Level Executive Dashboard](https://github.com/user-attachments/assets/164b6d4e-bd59-43b7-8eed-d941d50e04da)
-![Sales Team / Operational Dashboard](https://github.com/user-attachments/assets/715f7754-674b-4d13-8023-d0f0a17ac257)
-![Marketing Analysis Dashboard](https://github.com/user-attachments/assets/9d6a34b5-6fff-4fa4-b839-edb342159676)
-
-
 ### 📊 1. C-Level Executive Dashboard
+![C-Level Executive Dashboard](https://github.com/user-attachments/assets/164b6d4e-bd59-43b7-8eed-d941d50e04da)
+
 - High-level KPIs and performance overview  
-- Tooltip showing current month values for the last three years  
-- Row Level Security (RLS): User-based access to specific categories  
+- Tooltip showing current month values for the last three years
+  ![ToolTip](https://github.com/user-attachments/assets/2f2be321-b333-483c-9bee-ed3ad08ec555)
+
+- Row Level Security (RLS): User-based access to specific categories ==> [User B: Can access specific category in TV and Video.] 
+![RLS for user B](https://github.com/user-attachments/assets/044dc42c-fd09-4abf-986e-c9959f4b40c8)
+
 
 ### 📊 2. Sales Team / Operational Dashboard
+![Sales Team / Operational Dashboard](https://github.com/user-attachments/assets/715f7754-674b-4d13-8023-d0f0a17ac257)
+
 - Country-level performance analysis  
 - Drill-through functionality for detailed insights  
 
 ### 📊 3. Marketing Analysis Dashboard
+![Marketing Analysis Dashboard](https://github.com/user-attachments/assets/9d6a34b5-6fff-4fa4-b839-edb342159676)
+
 - YTD vs LY comparison with change %  
 - Time range selection (Last 15 / 30 / 45 days)  
 - Custom date range selection  
