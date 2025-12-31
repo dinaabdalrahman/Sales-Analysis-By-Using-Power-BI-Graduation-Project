@@ -24,7 +24,7 @@ It covers the full analytics lifecycle — from data understanding and modeling 
 ## 📁 Dataset Overview
 The dataset consists of several interconnected tables:
 
-### 🔹 Dimension Tables
+### 🔹 Dimension Tables such as :-
 - Date  
 - Product  
 - Channel  
@@ -60,7 +60,7 @@ The dataset consists of several interconnected tables:
 ---
 
 ## 2️⃣ Columns Characteristics
-Understanding column content and data types was essential for accurate modeling and analysis,such as :-
+Understanding column content and data types was essential for accurate modeling and analysis, such as :-
 
 ### 📦 Products Table
 - BrandName  
@@ -148,9 +148,11 @@ Custom DAX measures were created to support KPI tracking and time-based analysis
 
 - High-level KPIs and performance overview  
 - Tooltip showing current month values for the last three years
-  ![ToolTip](https://github.com/user-attachments/assets/2f2be321-b333-483c-9bee-ed3ad08ec555)
 
-- Row Level Security (RLS): User-based access to specific categories ==> [User B: Can access specific category in TV and Video.] 
+![ToolTip](https://github.com/user-attachments/assets/2f2be321-b333-483c-9bee-ed3ad08ec555)
+
+- Row Level Security (RLS): User-based access to specific categories ==> [User B: Can access specific category in TV and Video.]
+
 ![RLS for user B](https://github.com/user-attachments/assets/044dc42c-fd09-4abf-986e-c9959f4b40c8)
 
 
