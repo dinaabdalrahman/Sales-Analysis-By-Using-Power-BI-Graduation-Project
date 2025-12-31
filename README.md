@@ -18,8 +18,6 @@ It covers the full analytics lifecycle — from data understanding and modeling 
 - **Data Visualization:** Power BI  
 - **Data Modeling:** Snowflake Schema  
 - **Analytics:** DAX (Time Intelligence, KPIs, Targets)  
-- **Documentation:** GitHub, Markdown  
-- **Presentation:** GitHub  
 
 ---
 
