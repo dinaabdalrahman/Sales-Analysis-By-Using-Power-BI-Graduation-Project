@@ -160,16 +160,23 @@ Custom DAX measures were created to support KPI tracking and time-based analysis
 ![Sales Team / Operational Dashboard](https://github.com/user-attachments/assets/715f7754-674b-4d13-8023-d0f0a17ac257)
 
 - Country-level performance analysis  
-- Drill-through functionality for detailed insights  
+- Drill-through functionality for detailed insights
+![Drill Through](https://github.com/user-attachments/assets/a4be6c8c-9008-46ac-b882-3de079584dc4)
+
 
 ### 📊 3. Marketing Analysis Dashboard
 ![Marketing Analysis Dashboard](https://github.com/user-attachments/assets/9d6a34b5-6fff-4fa4-b839-edb342159676)
 
-- YTD vs LY comparison with change %  
-- Time range selection (Last 15 / 30 / 45 days)  
-- Custom date range selection  
+- YTD vs LY comparison with change %
+![YTD ](https://github.com/user-attachments/assets/b9292155-88fc-44ab-943f-ee2633888341)
 
-📷 *Dashboard screenshots are available in the assets folder*
+- Time range selection (Last 15 / 30 / 45 days)
+ ![Time range selection](https://github.com/user-attachments/assets/0786f94c-9afc-4dc1-8c86-670b64f3bb9f)
+
+- Custom date range selection
+![Custom date range selection](https://github.com/user-attachments/assets/08b575c0-9f82-432f-abc4-2dbbfae2ebc7)
+
+
 
 ---
 
