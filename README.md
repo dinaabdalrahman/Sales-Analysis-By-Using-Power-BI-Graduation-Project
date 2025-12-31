@@ -235,7 +235,7 @@ Custom DAX measures were created to support KPI tracking and time-based analysis
 - Full documentation and presentation files are included in the repository.
 
 
-[Documentation_Sales Analysis.pdf](https://github.com/USERNAME/REPO_NAME/blob/main/Documentation_Sales_Analysis.pdf)
+[Documentation_Sales Analysis.pdf](https://github.com/dinaabdalrahman/Sales-Analysis-By-Using-Power-BI-Graduation-Project/blob/main/Documentation_Sales%20Analysis.pdf)
 
 [Presentation_Sales Analysis Project.pdf](https://github.com/user-attachments/files/24389411/Presentation_Sales.Analysis.Project.pdf)
 
