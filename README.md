@@ -20,7 +20,7 @@ This Sales Analysis Dataset consists of several interconnected tables. Dimension
 
 ## 2) Columns Characteristic
 
- - Understanding The Content of Columns and Data Types, like: -
+- Understanding The Content of Columns and Data Types, like: -
    
 **Products Table** =>(BrandName,ClassName,ProductName,UnitCost).
 
@@ -42,7 +42,8 @@ Such As:-
 
 After completing the previous steps, I built Snowflake Schema. 
 
-**# Snowflake Schema :** is a highly normalized dimensional model where dimension tables are broken down into multiple, related sub dimension tables.
+**# Snowflake Schema :** is a highly normalized dimensional model where dimension tables are 
+broken down into multiple, related sub dimension tables.
 
 **# It Has a Critical Benefits:-**
  - Achieve High Normalization and Reduce Redundancy.
@@ -117,7 +118,8 @@ pic
  - **The U.S** is the primary revenue driver with $4.7M in sales, followed by **China** ($1.0M) and **Canada** ($0.6M).
  - **Clicks** declined steadily from **9.39M** in **2023** to **8.03M** in **2025**—a cumulative drop of over 14%.
  - **Visual tech products** like **camcorders** ($1.34M) and **projectors** ($1.11M) lead sales.
- - **The delivered and ordered amounts** were closely aligned, indicating low cost and high operational efficiency. **December** had the **highest** order volume.
+ - **The delivered and ordered amounts** were closely aligned, indicating low cost and high operational efficiency.
+   **December** had the **highest** order volume.
  - **83 % of store closures** were due to **relocation**, reflecting strategic shifts in store locations, while only **17% were actual shutdowns**.
  - Orders next 6 months are 2170, Orders next 1 month are 295, Orders next 15 days are 180 and Orders next 7 days are 81.
  
