@@ -110,7 +110,9 @@ A **Snowflake Schema** was implemented to ensure scalability, performance, and d
 2. Defined relationships using foreign keys  
 3. Validated model performance and filter flow  
 
-📌 *Snowflake schema diagram included in the repository*
+
+![**Snowflake schema diagram**](https://github.com/user-attachments/assets/a70b0171-0fa7-479b-9048-71b300bf875b)
+
 
 ---
 
@@ -119,10 +121,23 @@ A **Snowflake Schema** was implemented to ensure scalability, performance, and d
 Custom DAX measures were created to support KPI tracking and time-based analysis.
 
 ### 📐 Key Measures Such as:-
-- Total Cost  
-- Total Profit  
-- Average Discount %  
-- YTD Change %  
+- Total Cost
+
+ ![**Total Cost**](https://github.com/user-attachments/assets/77ab7ce3-46f3-4861-b472-e33070074440)
+
+
+- Total Profit
+
+![**Total Profit**](https://github.com/user-attachments/assets/8e3e247b-e2bd-4bc9-9bf4-c8a55810c502)
+
+- Average Discount %
+
+![**Average Discount %**](https://github.com/user-attachments/assets/7c3a2c5c-eef4-45b4-9d3a-4bce67102ec7)
+
+- YTD Change %
+
+![**YTD Change %**](https://github.com/user-attachments/assets/40e9dd84-422b-4637-a828-dc24fbf6d3d8)
+
 
 > Measures follow Power BI best practices and leverage fact–dimension relationships.
 
@@ -147,6 +162,17 @@ Three dynamic and interactive dashboards were developed to serve different busin
 - Custom date range selection  
 
 📷 *Dashboard screenshots are available in the assets folder*
+
+---
+
+## 🧠 Skills Demonstrated
+
+- Data Modeling (Snowflake Schema)
+- DAX Measures & Time Intelligence
+- KPI Tracking & Target Analysis
+- Business Insights & Storytelling
+- Dashboard Design for Stakeholders
+- Row Level Security (RLS)
 
 ---
 
@@ -176,9 +202,25 @@ Three dynamic and interactive dashboards were developed to serve different busin
 - Enhance digital advertising and payment integration  
 - Provide technical and marketing support to motivate sales channels  
 
+
 ---
 
-## 📂 Repository Structure
+## 📑 Documentation & Presentation
+- Full documentation and presentation files are included in the repository.
+
+---
+
+
+## 📬 Contact
+🔗 **LinkedIn:**  
+https://www.linkedin.com/in/dina-abdelrahman  
+
+📧 **Email:**  
+dinaabdalrahman7@gmail.com  
+
+---
+
+⭐ *If you find this project valuable, feel free to star the repository.*
 
 
 
