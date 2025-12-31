@@ -139,13 +139,16 @@ Custom DAX measures were created to support KPI tracking and time-based analysis
 ![**YTD Change %**](https://github.com/user-attachments/assets/40e9dd84-422b-4637-a828-dc24fbf6d3d8)
 
 
-> Measures follow Power BI best practices and leverage fact–dimension relationships.
-
 ---
 
 ## 6️⃣ Dashboard Building
 
-Three dynamic and interactive dashboards were developed to serve different business roles.
+**Three** dynamic and interactive dashboards were developed to serve different business roles.
+
+![C-Level Executive Dashboard](https://github.com/user-attachments/assets/164b6d4e-bd59-43b7-8eed-d941d50e04da)
+![Sales Team / Operational Dashboard](https://github.com/user-attachments/assets/715f7754-674b-4d13-8023-d0f0a17ac257)
+![Marketing Analysis Dashboard](https://github.com/user-attachments/assets/9d6a34b5-6fff-4fa4-b839-edb342159676)
+
 
 ### 📊 1. C-Level Executive Dashboard
 - High-level KPIs and performance overview  
